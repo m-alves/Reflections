@@ -7,10 +7,9 @@ What value do you think it offers?
 
 Yes. It can work as a buffer, where you can put files you want to commit, without having to put all the files in the working diretory.
 
+How can you use the staging area to make sure you have one commit per logical change?
 
-
-How can you use the staging area to make sure you have one commit per logical
-change?
+Comparing the several versions located on WD, SA and the repo.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
