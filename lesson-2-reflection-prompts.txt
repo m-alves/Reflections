@@ -14,6 +14,8 @@ Comparing the several versions located on WD, SA and the repo.
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+When we want or need to try different features in our project. Branches allow us to have these alternate paths of development for as long as necessary.
+
 How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
