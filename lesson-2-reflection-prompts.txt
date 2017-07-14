@@ -18,6 +18,8 @@ When we want or need to try different features in our project. Branches allow us
 
 How do the diagrams help you visualize the branch structure?
 
+Visualization is for shure the best tool to understand the branch structure of a given repository.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
