@@ -27,3 +27,5 @@ The result is the consolidation of the changes done in those two branches. That'
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+It is very positive that Git manages to process merges automatically, as it allows to save an immense amount of time and to do things impossible to do in another way. On the other hand, there are situations where the auto process does not work and that need manual intervention. However, I think it it understandable, as the complexity of autoresolving every possible situation of conflict is huge.
