@@ -23,5 +23,7 @@ Visualization is for shure the best tool to understand the branch structure of a
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+The result is the consolidation of the changes done in those two branches. That's also the reason for the representation.
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
