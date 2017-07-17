@@ -20,10 +20,9 @@ stored locally?
 
     That copy works as a point in origin of the project, if you have to work offline for example. Later you can sync with the remote starting from that last known state.
 
-How would you collaborate without using Git or GitHub?  What would be easier,
-and what would be harder?
+How would you collaborate without using Git or GitHub?  What would be easier, and what would be harder?
 
-    Fill in your answer here
+    Even using cloud services it would require manual inspection of the updates done by several people. Honestly I do not see what could be easier than Git/GitHub, excluding of course, learning to work it them. I believe almost everythin would be harder and more time consuming without Git/GitHub.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
