@@ -10,10 +10,10 @@ Why might you want to always pull changes manually rather than having Git automa
 
     As the remote can be used for very different purposes, it makes little sense to have automatic sync between local and remote repository. An automatic sync could cause a wide range of problems in situations like team projects, etc.
 
-Describe the differences between forks, clones, and branches.  When would you
-use one instead of another?
+Describe the differences between forks, clones, and branches.  When would you use one instead of another?
 
-    Fill in your answer here
+    A fork is a copy of someone else's repository, that creates a copy of that same repository in your profile. A clone is a copy of a remote to our local environment. A branch is just a sequence of commits in a repository. 
+    A fork could be used to work on top of someone project, without messing with the original project itself. A clone could be used to work in colaboration. A branch can be used within a project to allow for certain features development paralel to the core code.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
